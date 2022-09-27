@@ -16,7 +16,7 @@ public class TC1_GetRequest {
 				.contentType(ContentType.JSON)
 				.when()
 				.get("http://localhost:3000/SeleniumStudents");
-				
+				System.out.println("*********************TC1**********************************");
 				System.out.println("response status code is : ");
 				System.out.println(rs.statusCode());
 				System.out.println("response data is:");
