@@ -1,0 +1,21 @@
+{
+ "firstname": "Jagmit",
+ "lastname": "Singh",
+ "Designation" : "Consultant",
+ "id":"fjdkj2",
+  "Address":
+  [
+  	{
+  		"sector": "28",
+  		"house no": "7073",
+  		"type": "primary Address"
+  	},
+  	{
+  		"sector": "35",
+  		"house no": "7072",
+  		"type": "Secondary Address"
+  	}
+  	
+  	
+  ]
+}
